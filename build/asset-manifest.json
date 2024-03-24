@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cursed-city/static/css/main.0649751e.css",
+    "main.js": "/cursed-city/static/js/main.8fbc1743.js",
+    "static/media/logo.svg": "/cursed-city/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cursed-city/index.html",
+    "main.0649751e.css.map": "/cursed-city/static/css/main.0649751e.css.map",
+    "main.8fbc1743.js.map": "/cursed-city/static/js/main.8fbc1743.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0649751e.css",
+    "static/js/main.8fbc1743.js"
+  ]
+}
