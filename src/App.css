@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+.heroIcon, .skull1, .skull2  {
+  height: 5em;
+  touch-action: none; /* Disables default touch actions */
+}
+
+.skull3, .skull4 {
+  height: 4.2em;
+  touch-action: none; /* Disables default touch actions */
+}
+
+.heroIconAction, .skullIconAction1, .skullIconAction2, .skullIconAction3, .skullIconAction4  {
+  height: 2.5em;
+}
+
+.current-player {
+  background: darkorange;
+}
+
+.dice-number {
+  font-size: 6em;
+  font-weight: 700;
+}
